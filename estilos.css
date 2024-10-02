@@ -215,15 +215,15 @@ footer p{
 	}
 	
 	nav a:link{
-		font-size:20px;
-		line-height:30px;
+		font-size:15px;
+		line-height:22px;
 		
 	}
 	
 
 	
 	.logohead img{
-		width:40%;
+		width:72%;
 		height:auto;
 		
 		
@@ -307,7 +307,7 @@ footer p{
 	
 	.icofoot img{
 		margin-bottom:2%;
-		width:23vh;
+		width:17vh;
 		height:auto;
 		
 	}
